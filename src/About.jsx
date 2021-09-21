@@ -18,7 +18,7 @@ export const About = () => {
                         <div className="top pt-5" id={'about'}>
                                 <div className="App">
                                     <h3>
-                                        About Us
+                                        About Me
                                     </h3>
                                 </div>
                                 <div className="row pt-4">
